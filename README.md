@@ -24,9 +24,9 @@
 
 <p align="left">Hello. my name is Daniel. I am a Java Software Developer.<br><br>- 🔭 I’m working as a Senior Java Software Engineer <br>- 📚 I'm currently learning about system system, AWS, and Python<br>- ⚡ In my free time I code for fun, reading books, socializing<br><br>The ability to solve problems is much more important than knowing a bunch of frameworks. Change my mind.</p>
 
-###
-
-<h3 align="left">🛠 Language and tools</h3>
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
+</div>
 
 ###
 
@@ -42,9 +42,7 @@
 
 ###
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-###
+<h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
@@ -79,6 +77,8 @@
 </div>
 
 ###
+
+<h3 align="center">😂 Random Dev Meme</h3>
 
 <div align="center">
   <img height="200" src="https://randommeme-five.vercel.app/"  />
