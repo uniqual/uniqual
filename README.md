@@ -42,7 +42,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/uniqual/uniqual/output/snake.svg" alt="Snake animation" />
+<div align="center">
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 
 ###
 
