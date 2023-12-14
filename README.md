@@ -23,11 +23,6 @@
 ###
 
 <p align="left">Hello, my name is Daniel. I am a Java Software Developer.<br><br>- 🔭 I’m working as a Senior Java Software Engineer <br>- 📚 I'm currently learning about system design, AWS, and Python<br>- ⚡ In my free time I code for fun, read books, podcasts, movies, gym<br><br>The ability to solve problems is much more important than knowing a bunch of frameworks. Change my mind.</p>
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"  />
-</div>
-
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
