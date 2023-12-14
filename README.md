@@ -81,7 +81,7 @@
 <h3 align="center">😂 Random Dev Meme</h3>
 
 <div align="center">
-  <img height="200" src="https://randommeme-five.vercel.app/"  />
+  <img height="350" src="https://randommeme-five.vercel.app/"  />
 </div>
 
 ###
