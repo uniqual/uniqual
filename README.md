@@ -21,16 +21,6 @@
 
 <p align="left">Hello, my name is Daniel. I am a Java Software Developer.<br><br>- 🔭 I’m working as a Senior Java Software Engineer <br>- 📚 I'm currently learning about system design, AWS, and Python<br>- ⚡ In my free time I code for fun, read books, podcasts, movies, gym<br><br>The ability to solve problems is much more important than knowing a bunch of frameworks. Change my mind.</p>
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uniqual&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uniqual&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=uniqual&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 
 <h3 align="center">🛠 Language and tools</h3>
